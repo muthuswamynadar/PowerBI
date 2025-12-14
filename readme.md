@@ -76,9 +76,8 @@ https://docs.google.com/spreadsheets/d/1-Syw8OYuN0UWcrhD_CkMD_nFcugPuB-26Z4jo1_H
 
 ## 🖥 Dashboard Preview
 
-<p align="center">
-  <img src="images\image.png" alt="Overview Dashboard" width="90%">
-</p>
+<img src="images/image.png" alt="Overview Dashboard" width="90%">
+
 
 
 
@@ -95,11 +94,6 @@ https://docs.google.com/spreadsheets/d/1-Syw8OYuN0UWcrhD_CkMD_nFcugPuB-26Z4jo1_H
 **Muthuswamy**  
 Data Analyst | Power BI | SQL | Python  
 📍 India  
-
----
-
-## 📌 Note
-This project was developed as part of a **data analyst assignment** to simulate real-world business problem-solving using Power BI.
 
 ---
 
