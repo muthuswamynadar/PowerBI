@@ -76,7 +76,7 @@ https://docs.google.com/spreadsheets/d/1-Syw8OYuN0UWcrhD_CkMD_nFcugPuB-26Z4jo1_H
 
 ## 🖥 Dashboard Preview
 
-<img src="images/image.png" alt="Overview Dashboard" width="90%">
+<img src="Call-Center-Project\images\image.png" alt="Overview Dashboard" width="90%">
 
 
 
